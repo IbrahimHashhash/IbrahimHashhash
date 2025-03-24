@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bdb13869-c343-44e9-9126-7adbab8186a1)# Ibrahim-profile
+# Ibrahim-profile
 ## 👋 Hi, I'm Ibrahim!
 I'm an AI enthusiast with a strong foundation in data science and software development. I have completed university courses in web development, data structures, databases, and software engineering, giving me solid experience in building software solutions.
 
