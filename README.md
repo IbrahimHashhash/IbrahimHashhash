@@ -1,116 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ibrahim's Profile</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-            background-color: #1e1e2e;
-            color: #fff;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        .container {
-            width: 90%;
-            max-width: 800px;
-            background: #2a2a3a;
-            padding: 30px;
-            border-radius: 12px;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-            text-align: center;
-        }
-        h1 {
-            color: #ffcc00;
-            margin-bottom: 10px;
-        }
-        .badges img {
-            width: 100px;
-            margin: 5px;
-        }
-        .section {
-            margin-top: 20px;
-            padding: 15px;
-            border-radius: 8px;
-            background: #3a3a4a;
-        }
-        .skills, .tools, .languages {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-        .tag {
-            background: #ffcc00;
-            color: #1e1e2e;
-            padding: 8px 15px;
-            margin: 5px;
-            border-radius: 20px;
-            font-weight: 600;
-        }
-        .connect a {
-            text-decoration: none;
-            color: #ffcc00;
-            font-weight: bold;
-            margin: 10px;
-        }
-        .connect a:hover {
-            color: #ffa500;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>👋 Hi, I'm Ibrahim!</h1>
-        <p>AI enthusiast | Data Scientist | Software Developer</p>
-        
-        <div class="section">
-            <h2>🧠 AI & Data Science Skills</h2>
-            <div class="skills">
-                <div class="tag">Machine Learning</div>
-                <div class="tag">Deep Learning</div>
-                <div class="tag">Data Science</div>
-                <div class="tag">Data Analysis</div>
-            </div>
-        </div>
+# 💻 Ibrahim's Profile
 
-        <div class="section">
-            <h2>🛠 Tools & Libraries</h2>
-            <div class="tools">
-                <div class="tag">Pandas</div>
-                <div class="tag">NumPy</div>
-                <div class="tag">Matplotlib</div>
-                <div class="tag">Seaborn</div>
-                <div class="tag">Scikit-Learn</div>
-                <div class="tag">TensorFlow</div>
-                <div class="tag">Keras</div>
-            </div>
-        </div>
+## 👋 Hi, I'm Ibrahim!
+I'm an AI enthusiast with a strong foundation in data science and software development. I have completed university courses in web development, data structures, databases, and software engineering, giving me solid experience in building software solutions.
 
-        <div class="section">
-            <h2>💻 Programming Languages</h2>
-            <div class="languages">
-                <div class="tag">Python</div>
-                <div class="tag">Java</div>
-                <div class="tag">JavaFX</div>
-                <div class="tag">JavaScript</div>
-                <div class="tag">HTML5</div>
-                <div class="tag">CSS</div>
-                <div class="tag">PHP</div>
-            </div>
-        </div>
+I also took a data science course, where I learned essential tools like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn. Currently, I’m diving deeper into Machine Learning and Deep Learning to expand my AI expertise. 🚀
 
-        <div class="section connect">
-            <h2>📫 Let's Connect!</h2>
-            <a href="#">LinkedIn</a>
-            <a href="#">GitHub</a>
-            <a href="#">Portfolio</a>
-        </div>
-    </div>
-</body>
-</html>
+---
+
+## 🧠 AI & Data Science Skills
+
+- 🤖 **Machine Learning**  
+- 🧠 **Deep Learning**  
+- 📊 **Data Science**  
+- 📈 **Data Analysis**  
+
+---
+
+## 🛠 Tools & Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+---
+
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)  
+
+🚀 Feel free to reach out and collaborate on AI and software projects!
