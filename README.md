@@ -3,6 +3,7 @@
 I'm an AI enthusiast with a strong foundation in data science and software development. I have completed university courses in web development, data structures, algorithms, databases, and software engineering, giving me solid experience in building software solutions.
 
 I also took a data science course, where I learned essential tools like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn. Currently, I’m diving deeper into Machine Learning and Deep Learning to expand my AI expertise. 🚀
+
 ---
 
 ## 🧠 AI & Data Science Skills
