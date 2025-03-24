@@ -11,7 +11,6 @@ I also took a data science course, where I learned essential tools like Pandas, 
 
 - 🤖 **Machine Learning**  
 - 📊 **Data Science**
-- 
 ---
 
 ## 🛠 Tools & Libraries
