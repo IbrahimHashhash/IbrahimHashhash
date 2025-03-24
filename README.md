@@ -1,8 +1,8 @@
 ![image](https://github.com/user-attachments/assets/bdb13869-c343-44e9-9126-7adbab8186a1)# Ibrahim-profile
 ## 👋 Hi, I'm Ibrahim!
-I'm an AI enthusiast with a strong foundation in data science and computer science. I have completed all my university's computer science courses, including algorithms, data structures, and web development. 
+I'm an AI enthusiast with a strong foundation in data science and software development. I have completed university courses in web development, data structures, databases, and software engineering, giving me solid experience in building software solutions.
 
-I took a data science course, giving me hands-on experience with essential tools like **Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn**. Currently, I’m diving deeper into **Machine Learning and Deep Learning** to expand my AI expertise. 🚀
+I also took a data science course, where I learned essential tools like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn. Currently, I’m diving deeper into Machine Learning and Deep Learning to expand my AI expertise. 🚀
 
 ---
 
