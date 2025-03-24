@@ -10,10 +10,8 @@ I also took a data science course, where I learned essential tools like Pandas, 
 ## 🧠 AI & Data Science Skills
 
 - 🤖 **Machine Learning**  
-- 🧠 **Deep Learning**  
-- 📊 **Data Science**  
-- 📈 **Data Analysis**  
-
+- 📊 **Data Science**
+- 
 ---
 
 ## 🛠 Tools & Libraries
@@ -24,7 +22,6 @@ I also took a data science course, where I learned essential tools like Pandas, 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ---
 
