@@ -38,7 +38,7 @@ I'm an AI enthusiast with a strong foundation in data science and software devel
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-h-a93315309)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimhashhash)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IbrahimHashhash/IbrahimHashhash)
 
 🚀 Feel free to reach out and collaborate on AI and software projects!
