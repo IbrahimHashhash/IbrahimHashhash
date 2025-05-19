@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ibrahim!
-https://cdn.dribbble.com/userupload/23208585/file/original-09f42459b51c5295d3c3ad607fd9f268.gif
 I'm an AI enthusiast with a strong foundation in data science and software development. With hands-on experience using tools like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn, I've worked on various software solutions and am currently expanding my expertise in Machine Learning and Deep Learning. I’m passionate about leveraging AI to solve real-world problems and am always eager to learn more
+![gif](https://github.com/user-attachments/assets/cdf3a5ab-529d-45b1-b4aa-6371db236c37)
 
 ---
 ## 🛠 AI Tools & Libraries i have experience with
