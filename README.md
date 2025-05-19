@@ -4,7 +4,7 @@
 I'm an AI enthusiast with a strong foundation in data science and software development. With hands-on experience using tools like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn, I've worked on various software solutions and am currently expanding my expertise in Machine Learning and Deep Learning. I’m passionate about leveraging AI to solve real-world problems and am always eager to learn more
 
 ---
-## 🛠 Tools & Libraries
+## 🛠 AI Tools & Libraries i have experience with
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
