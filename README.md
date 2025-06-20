@@ -3,7 +3,7 @@
 </p> 
 
 ## About Me 📌
-hello i'm ibrahim, nice to meet you. I'm currently expanding my skills in AI. 
+- hello i'm ibrahim, nice to meet you. I'm currently expanding my skills in AI. 
 ---
 
 ## GitHub Activity & Stats 📊
