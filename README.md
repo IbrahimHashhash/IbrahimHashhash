@@ -1,12 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p> 
-
-## About Me 📌
-- hello i'm ibrahim, nice to meet you. I'm currently expanding my skills in AI. 
+--- 
+hello i'm ibrahim, nice to meet you. I'm currently expanding my skills in AI. 
 ---
 
-## GitHub Activity & Stats 📊
+## GitHub Activity & Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimHashhash&layout=compact&hide_border=true&bg_color=151515&title_color=00BFFF&text_color=fff&icon_color=00BFFF" width="400" />
