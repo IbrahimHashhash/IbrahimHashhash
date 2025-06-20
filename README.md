@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p> 
 i'm ibrahim, nice to meet you. I'm currently expanding my skills in AI. 
----
 
 ## GitHub Activity & Stats 
 
