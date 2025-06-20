@@ -4,6 +4,7 @@
 <p align="center">
 I’m Ibrahim. I’m learning more about AI and building my skills to create cool things.
 </p> 
+
 ## GitHub Activity & Stats 
 
 <p align="center">
