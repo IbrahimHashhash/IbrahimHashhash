@@ -3,13 +3,7 @@
 </p> 
 
 ## About Me 📌
-
-- 👋 I'm **Ibrahim Hashhash**
-- 🎓 3rd-year Computer Science student at Birzeit University  
-- 🤖 Passionate about AI, Machine Learning, and problem-solving  
-- 💡 Always learning and building  
-- 📫 Reach me at: **ibrahimhash0594542602@gmail.com**
-
+hello i'm ibrahim, nice to meet you. I'm currently expanding my skills in AI. 
 ---
 
 ## GitHub Activity & Stats 📊
