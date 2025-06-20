@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p> 
-i'm ibrahim, nice to meet you. I'm currently expanding my skills in AI. 
-
+I’m Ibrahim. I’m learning more about AI and building my skills to create cool things.
 ## GitHub Activity & Stats 
 
 <p align="center">
