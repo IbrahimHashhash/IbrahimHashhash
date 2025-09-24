@@ -1,6 +1,4 @@
-<p align="center">
 I’m Ibrahim. I’m learning more about AI and building my skills to create cool things.
-</p> 
 
 [![DataCamp](https://img.shields.io/badge/DataCamp-05192D?style=flat&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/IbrahimHashhash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimhashhash)
