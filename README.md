@@ -7,15 +7,15 @@ I’m Ibrahim. I’m learning more about AI and building my skills to create coo
 
 <p align="center">
   <a href="https://www.datacamp.com/portfolio/IbrahimHashhash">
-    <img src="https://img.shields.io/badge/DataCamp-05192D?style=flat&logo=datacamp&logoColor=65FF8F" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/datacamp.svg" alt="DataCamp" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/ibrahimhashhash">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" />
   </a>
   <a href="https://www.kaggle.com/ibrahimhashhash">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="40" />
   </a>
   <a href="https://leetcode.com/u/IHashhash/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="40" />
   </a>
 </p>
