@@ -1,4 +1,4 @@
-I’m Ibrahim. I’m learning more about AI and building my skills to create cool things.
+I’m Ibrahim, focused on learning and building skills to turn ideas into real projects
 
 [![DataCamp](https://img.shields.io/badge/DataCamp-05192D?style=flat&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/IbrahimHashhash)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ibrahimhashhash)
